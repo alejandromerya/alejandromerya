@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alejandromerya
-- 👀 I’m interested in cloud services, devops, web development.
+- 👀 I’m interested in cloud infrastructure, DevOps and development.
 - 🫀 Pug lover.
 
 <!---
